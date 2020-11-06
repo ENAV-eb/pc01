@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="marca_array">
+        <item>Selecciona una marca...</item>
+        <item>Faber Castell</item>
+        <item>IATA</item>
+        <item>Pilot</item>
+        <item>Mongol</item>
+        <item>Artesco</item>
+        <item>Chespirito</item>
+        <item>La fija</item>
+        <item>Disney</item>
+    </string-array>
+</resources>

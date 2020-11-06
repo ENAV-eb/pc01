@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/lista_menu"
+        android:title="Lista Marcadores"
+        android:enabled="true"
+        android:icon="@drawable/list_selector"/>
+
+    <item android:id="@+id/add_menu"
+        android:title="Nuevo Marcador"
+        android:enabled="true"
+        android:icon="@drawable/add_selector"/>
+
+    <item android:id="@+id/menu_3"
+        android:title="Reset DB"
+        android:enabled="true"
+        android:icon="@drawable/clear_selector"/>
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PC01 - Módulo Marcadores</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_producto">Nombre del útil</string>
+    <string name="marca_producto">Marca del útil</string>
+    <string name="title_form">Formulario de útiles</string>
+    <string name="modelo_producto">Modelo del útil</string>
+    <string name="color_producto">Indique color</string>
+    <string name="longitud_producto">Longitud del útil</string>
+    <string name="btn_guardar">Guardar útil</string>
+    <string name="lista_title">Lista de útiles</string>
+    <string name="nombre">Nombre:</string>
+    <string name="marca">Marca:</string>
+    <string name="color">Color:</string>
+    <string name="Long">Mide:</string>
+    <string name="modelo">Modelo:</string>
+</resources>
